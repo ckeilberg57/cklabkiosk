@@ -12,10 +12,10 @@ let maxCallDuration = "86400"; // Not implemented!!!!!!!
 let transferLocation = "pextv";  // From Mobile Remote
 
 // Configure Default Settings
-let server = "pex-server.com";
-let conference = "pexkiosk";
+let server = "cklab-edges.ck-collab-engtest.com";
+let conference = "pexiphealth";
 let callAlias =
-  "pexK-" + Math.random().toString(36).substring(2, 10).toUpperCase(); //Randomise the alias name for uniqueness
+  "ph" + Math.random().toString(36).substring(2, 10).toUpperCase(); //Randomise the alias name for uniqueness
 let callRate = "2464"; // Maximum call rate (Kbps)
 let callTypeSelection = "none";
 let callTag = "Pexip Kiosk Demo";
