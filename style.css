@@ -131,7 +131,7 @@ select {
   text-align: center;
   color: #ffe74c;
   transform: translate(-50%);
-  position: relative;
+  position: absolute;
   left: 50%;
 }
 
@@ -167,7 +167,7 @@ select {
 
 .clockBlock {
   text-align: right;
-  position: relative;
+  position: absolute;
   top: 10px;
   right: 10px;
   opacity: 1;
@@ -187,7 +187,7 @@ select {
 
 .nameBlock {
   text-align: left;
-  position: relative;
+  position: absolute;
   top: 10px;
   left: 10px;
   opacity: 1;
@@ -220,7 +220,7 @@ select {
 
 .qrBlock {
   text-align: center;
-  position: relative;
+  position: absolute;
   bottom: 10px;
   right: 10px;
 }
@@ -233,7 +233,7 @@ select {
 
 .logoBlock {
   text-align: center;
-  position: relative;
+  position: absolute;
   top: 20px;
   left: 50%;
   transform: translate(-50%);
@@ -249,7 +249,7 @@ select {
 .homeBlock {
   font-size: 24px;
   text-align: center;
-  position: relative;
+  position: absolute;
   top: 50%;
   left: 40%;
   transform: translate(-50%, -50%);
@@ -272,14 +272,14 @@ select {
   margin: 0px;
   padding: 0px;
   transform: translate(-50%, -50%);
-  position: relative;
+  position: absolute;
   bottom: 50px;
   left: 50%;
 }
 
 .muteIcon {
   width: 50px;
-  position: relative;
+  position: absolute;
   bottom: 10px;
   left: 10px;
   opacity: 0.8;
@@ -312,7 +312,7 @@ select {
   white-space: nowrap;
 }
 .rotator-wrapper span span {
-  position: relative;
+  position: absolute;
   font-weight: bold;
   white-space: nowrap;
   top: -0px;
@@ -368,7 +368,7 @@ select {
   height: 80px;
   opacity: 0.9;
   text-align: center;
-  position: relative;
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%);
