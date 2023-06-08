@@ -140,6 +140,8 @@ select {
   background: rgba(0, 0, 0, 0.5);
   border-color: #ffe74c;
   color: #ffe74c;
+  margin: 0px;
+  padding: 0px;
 }
 
 #muteButton {
@@ -147,6 +149,8 @@ select {
   background: rgba(0, 0, 0, 0.5);
   border-color: dodgerblue;
   color: dodgerblue;
+  margin: 0px;
+  padding: 0px;
 }
 
 #endCallButton {
@@ -154,6 +158,8 @@ select {
   background: rgba(0, 0, 0, 0.5);
   border-color: orangered;
   color: orangered;
+  margin: 0px;
+  padding: 0px;
 }
 
 .info {
