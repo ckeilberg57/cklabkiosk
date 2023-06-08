@@ -28,11 +28,11 @@ body {
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  //margin: 0px;
+  /*margin: 0px; */
   padding: 0px;
-  //For center align
+  /*For center align */
   margin: 0 auto;
-  // For grow & shrink as per screen size change values as per your requirements
+  /*For grow & shrink as per screen size change values as per your requirements */
   width: 80%;
   height: 50%;
 }
